@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# include subdirectories
+!*/
+
+# but not text files
+!.gitignore
+!*.txt
